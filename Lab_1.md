@@ -15,5 +15,18 @@ localhost/page1.html to localhost/page2.html.
 
 
 ● Create a directory then allow access to one of your classmates only.
+
+![Screenshot from 2022-12-16 15-11-25](https://user-images.githubusercontent.com/110255978/208105876-26dee79c-d905-4f16-bdf6-373e8a10dd8f.png)
+![Screenshot from 2022-12-16 15-11-46](https://user-images.githubusercontent.com/110255978/208105887-ff9edd48-0d24-4086-b33a-a9c3ce0f1ae5.png)
+
+
 ● Disable listing the directory content (hint use indexes)
+
+![Screenshot from 2022-12-16 15-21-11](https://user-images.githubusercontent.com/110255978/208107452-a710aa88-56c5-44be-bff3-305c43679baf.png)
+
+
 ● Change the default index page to be default.html instead of index.html
+
+![Screenshot from 2022-12-16 15-27-57](https://user-images.githubusercontent.com/110255978/208108704-eab2c3bd-3ed5-4d8c-9a2f-34c065d028a9.png)
+
+
