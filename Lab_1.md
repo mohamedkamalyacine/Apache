@@ -9,6 +9,10 @@ localhost/page1.html to localhost/page2.html.
 
 ● Ask for username and password when accessing a directory.
 
+![Screenshot from 2022-12-16 14-55-59](https://user-images.githubusercontent.com/110255978/208103332-71199ac5-2e90-42d3-b017-f786ba8af65d.png)
+![Screenshot from 2022-12-16 14-56-22](https://user-images.githubusercontent.com/110255978/208103347-cf3895d8-eff2-418b-8560-f8a4ef823bc0.png)
+![Screenshot from 2022-12-16 14-56-37](https://user-images.githubusercontent.com/110255978/208103355-1c4cdeec-be22-4a43-b4ee-dd7e9769d2dc.png)
+
 
 ● Create a directory then allow access to one of your classmates only.
 ● Disable listing the directory content (hint use indexes)
