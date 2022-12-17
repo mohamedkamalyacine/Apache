@@ -34,5 +34,34 @@
 ![Screenshot from 2022-12-17 14-56-35](https://user-images.githubusercontent.com/110255978/208242984-2464140d-cec6-41b6-90a5-085aa827ce2e.png)
 
 
-
 - Tell me the main differences between Apache & Nginx
+- Apache:
+1.  is an open-source web server.
+2.	It is mostly used for Unix, Linux, Windows and Solaris platforms.
+3.	It was developed by Apache group and initially released on 25 March 1999.
+4.	Apache is written in C and XML.
+5.	It is designed for web server.
+6.	In heavy web traffic, it cannot support multiple requests.
+7.	In Apache, modules are dynamically fixed that make it more complex.
+8.	It follows Multi-Threaded approach to process client requests.
+9.	In Apache, there is a dynamic content in web server itself.
+10.	Apache’s performance for static content is lower than that of Nginx.
+11.	Less security provided as compared to Nginx and also the codebase is very high.
+12.	File system location are passed to interpret the client requests.
+13.	Complex configuration system as compared to Nginx.
+
+- Nginx: 
+1. is a web server. It is also used as a reverse proxy server which revices the request from client and send the request to proxy server.
+2. It is mostly used for Unix like systems, and does not completely support Windows.
+3. It was developed by Nginx.inc and initially released on 4 october 2004.
+4. Nginx is written in C language.
+5. It is designed for proxy server as well as web server.
+6. It can support multiple client requests with limited hardware resources.
+7. In Nginx, modules cannot be loaded dynamically as there is a core software in which they are complied .
+8. It follows Event-Driven approach to process client requests.
+9. It does not support provide dynamic content.
+10. Nginx’s performance of static content is two times faster than that of Apache as it can simultaneously run thousands of connections and it uses less memory comparatively.
+11. It provides better security with a smaller codebase.
+12. It passes Uniform Resource Identifier (URI) to interpret the client requests.
+13. It has relatively simpler configuration system.
+
