@@ -22,6 +22,17 @@
 
 - Make two html files, and change the configuration file to access the first file on port 81, and access the second file on port 82.
 
+![Screenshot from 2022-12-17 14-55-31](https://user-images.githubusercontent.com/110255978/208242965-90b35bab-e65e-4d05-8ff4-6b188f2d60ba.png)
+
+![Screenshot from 2022-12-17 14-55-54](https://user-images.githubusercontent.com/110255978/208242972-8042900f-182f-4544-9ec6-ec2568f9f0a9.png)
+
+
+![Screenshot from 2022-12-17 14-56-06](https://user-images.githubusercontent.com/110255978/208242976-1857c029-7f57-4b25-8afe-698f56e5e5b0.png)
+
+![Screenshot from 2022-12-17 14-56-21](https://user-images.githubusercontent.com/110255978/208242979-b34fbce7-18b7-4fb0-afc9-804f669068f5.png)
+
+![Screenshot from 2022-12-17 14-56-35](https://user-images.githubusercontent.com/110255978/208242984-2464140d-cec6-41b6-90a5-085aa827ce2e.png)
+
 
 
 - Tell me the main differences between Apache & Nginx
